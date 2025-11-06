@@ -76,40 +76,6 @@ npm run dev
 npm run build
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 FAQ
-
-**Q: Is this service really free?**  
-A: Yes! It's completely free for all BGMI players.
-
-**Q: Will these settings work on my device?**  
-A: Yes! The settings are personalized for your specific device and FPS support.
-
-**Q: Can I use these settings for other games?**  
-A: While optimized for BGMI, you can try them in similar battle royale games.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to all BGMI players who provided feedback
-- Inspired by professional BGMI players and their sensitivity preferences
-
-## 📞 Support
-
-For issues or questions, please open an issue in the GitHub repository or contact the maintainer.
-
 ## ⭐ Show Your Support
 
 If this project helped you, give it a ⭐️!
