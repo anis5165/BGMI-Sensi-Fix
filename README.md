@@ -45,10 +45,10 @@ The sensitivity fix provides optimized values for:
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework**: React.js / Next.js
+- **Frontend Framework**: Next.js
 - **Hosting**: Vercel
 - **Styling**: Tailwind CSS
-- **AI Integration**: Custom sensitivity algorithm
+- **AI Integration**: Gemini Api
 
 ## 📋 Prerequisites
 
